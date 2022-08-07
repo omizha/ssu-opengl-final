@@ -1,4 +1,4 @@
-# 컴퓨터그래픽스 최종프로젝트
+# 탈출을 할 수 없는 방 : 컴퓨터그래픽스 최종프로젝트
 ## DEMO
 <a href="https://youtu.be/xkSkDwrCUZY">![DEMO](https://github.com/omizha/ssu-opengl-final/blob/main/docs/image/demo.jpg?raw=true)</a>
 <br>
